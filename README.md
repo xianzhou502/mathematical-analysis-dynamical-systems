@@ -85,7 +85,6 @@ This project demonstrates understanding of several mathematical concepts:
 
 | File                                                  | Description                                         |
 | ----------------------------------------------------- | --------------------------------------------------- |
-| `Mathematical_Analysis_Dynamical_Systems_Report.docx` | Original undergraduate mathematical analysis report |
 | `Mathematical_Analysis_Dynamical_Systems_Report.pdf`  | Optional PDF version for easier viewing on GitHub   |
 
 ## Skills Demonstrated
